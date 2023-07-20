@@ -1,8 +1,10 @@
 # QR Code Generator
 
-![QR Code Generator](qr-code-generator.png)
-
 The QR Code Generator is a simple web application that allows you to generate QR codes for various types of data using HTML, CSS, and JavaScript. With this tool, you can quickly and easily create QR codes for URLs, text, contact information, Wi-Fi credentials, and more.
+
+## Live Demo
+
+Live Demo: https://goblin-code.github.io/qr-code-generator/
 
 ## Features
 
@@ -18,10 +20,6 @@ The QR Code Generator is a simple web application that allows you to generate QR
 2. Open the `index.html` file in your preferred web browser.
 3. Enter the data you want to encode into the input field.
 4. Click the "Generate" button to create the QR code.
-
-## Live Demo
-
-Live Demo: 
 
 ## Technologies Used
 
